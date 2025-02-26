@@ -1,0 +1,99 @@
+/* Global Styles */
+body {
+  background-color: black;
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+/* Container */
+.container {
+  text-align: center;
+  color: white;
+}
+
+/* Title */
+.title {
+  font-size: 2rem;
+  margin-bottom: 20px;
+}
+
+/* Start/Stop Button */
+.recordButton {
+  background-color: #ff007f;
+  color: white;
+  border: none;
+  padding: 15px 30px;
+  font-size: 1rem;
+  border-radius: 30px;
+  cursor: pointer;
+  transition: 0.3s;
+  font-weight: bold;
+  box-shadow: 0 4px 10px rgba(255, 0, 127, 0.5);
+}
+
+.recordButton:hover {
+  background-color: #ff4da6;
+}
+
+/* Elapsed Time Display */
+.elapsedTime {
+  font-size: 1.8rem;
+  font-weight: bold;
+  color: white;
+  margin-top: 15px;
+}
+
+/* Status Indicator */
+.statusIndicator {
+  font-size: 1.2rem;
+  font-weight: bold;
+  color: #ff007f;
+  text-align: center;
+  margin-top: 15px;
+}
+
+/* Lap Container */
+.lapContainer {
+  margin-top: 20px;
+  background-color: white;
+  color: black;
+  padding: 15px;
+  border-radius: 10px;
+  box-shadow: 0 4px 10px rgba(255, 0, 127, 0.3);
+}
+
+/* Lap Title */
+.lapTitle {
+  font-size: 1.5rem;
+  color: #ff007f;
+  font-weight: bold;
+  text-align: center;
+}
+
+/* Lap List */
+.lapList {
+  list-style: none;
+  padding: 0;
+  margin-top: 10px;
+}
+
+/* Individual Lap Item */
+.lapItem {
+  padding: 10px;
+  border-bottom: 1px solid #ddd;
+  font-size: 1.1rem;
+  text-align: center;
+  font-weight: bold;
+}
+
+/* No Laps Message */
+.noLaps {
+  color: gray;
+  font-size: 1rem;
+  text-align: center;
+} 

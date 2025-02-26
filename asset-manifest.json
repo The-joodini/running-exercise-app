@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/The-joodini/running-exercise-app.git/static/css/main.0f3387d0.css",
+    "main.js": "/The-joodini/running-exercise-app.git/static/js/main.05f09369.js",
+    "static/js/453.4374a030.chunk.js": "/The-joodini/running-exercise-app.git/static/js/453.4374a030.chunk.js",
+    "index.html": "/The-joodini/running-exercise-app.git/index.html",
+    "main.0f3387d0.css.map": "/The-joodini/running-exercise-app.git/static/css/main.0f3387d0.css.map",
+    "main.05f09369.js.map": "/The-joodini/running-exercise-app.git/static/js/main.05f09369.js.map",
+    "453.4374a030.chunk.js.map": "/The-joodini/running-exercise-app.git/static/js/453.4374a030.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0f3387d0.css",
+    "static/js/main.05f09369.js"
+  ]
+}
